@@ -1,123 +1,97 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=undeaDD&fontSize=60&fontColor=e94560&fontAlignY=38&desc=iOS%20Engineer%20%7C%20Swift%20Craftsman&descAlignY=58&descSize=18&descColor=a8b2d8" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=650&lines=Building+iOS+apps+with+Swift+%F0%9F%8D%8E;iMessage-style+UI+%7C+PassKit+%7C+HealthKit;Creator+of+DevsForge+%F0%9F%93%96+Manga+Manager;Arctic+Code+Vault+Contributor+%E2%9D%84%EF%B8%8F)](https://git.io/typing-svg)
-
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:141414,100:1c1c1c&height=200&section=header&text=undeaDD&fontSize=60&fontColor=91c256&fontAlignY=38&desc=iOS%20Engineer%20%7C%20Swift%20Craftsman&descAlignY=58&descSize=18&descColor=91c256" width="100%"/>
 
 <div align="center">
 
-## 🍎 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=91C256&center=true&vCenter=true&width=650&lines=Building+iOS+apps+with+Swift;iMessage-style+UI+%7C+PassKit+%7C+HealthKit;DevsForge+%E2%80%94+Manga+Manager;Expo+%26+React+Native+when+needed)](https://git.io/typing-svg)
 
 </div>
 
-```swift
-struct Developer {
-    let name      = "undeaD_D"
-    let location  = "NRW, Germany 🇩🇪"
-    let focus     = ["iOS", "Swift", "UIKit", "PassKit", "HealthKit"]
-    let community = ["HRW", "Heise", "Foraum"]
-    let project   = "DevsForge — Dein persönlicher Manga Manager 📖"
-    let website   = "https://devsforge.de"
-    func currentlyBuilding() -> String {
-        "Polished iOS experiences, one Swift file at a time."
-    }
-}
-```
+<!--
+## About Me
 
----
+ Replace with your terminal gif — drop it into assets/terminal.gif 
+<img src="assets/terminal.gif" alt="terminal" width="100%"/>-->
 
-<div align="center">
 
-## 🚀 Featured Projects
+<br/><br/>
 
-</div>
+# Featured Links
 
-<table align="center">
+<table>
   <tr>
-    <td width="50%">
-      <h3 align="center">📖 DevsForge</h3>
-      <p align="center">
-        <a href="https://devsforge.de"><img src="https://img.shields.io/badge/Live_Site-e94560?style=for-the-badge&logo=safari&logoColor=white"/></a>
-      </p>
-      <p align="center"><em>Dein persönlicher Manga Manager</em> — a personal Manga management app built with love for the community.</p>
+    <td width="50%" valign="top">
+      <h3>Devsforge.de</h3>
+      <p><a href="https://devsforge.de"><img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=homepage&primaryIcon=safari&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=owner&secondaryBGColor=%2391c256&secondaryTextColor=%23000000" alt="devsforge.de | owner"/></a></p>
+      <p><sub>My own humble Homepage.</sub></p>
     </td>
-    <td width="50%">
-      <h3 align="center">🍎 DSMenu</h3>
-      <p align="center">
-        <a href="https://github.com/undeaDD/DSMenu"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>
-        <img src="https://img.shields.io/github/stars/undeaDD/DSMenu?style=for-the-badge&color=e94560"/>
-      </p>
-      <p align="center">iOS 17 iMessage-style context menu — native feel, custom power.</p>
+    <td width="50%" valign="top">
+      <h3>KorekushonX</h3>
+      <p><a href="https://apps.apple.com/de/app/korekushonx/id1486204851"><img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=App+Store&primaryIcon=appstore&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=owner&secondaryBGColor=%2391c256&secondaryTextColor=%23000000" alt="App Store | owner"/></a></p>
+      <p><sub>iOS Manga Collection Manager on the App Store.</sub></p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">💼 BusinessWallet</h3>
-      <p align="center">
-        <a href="https://github.com/undeaDD/BusinessWallet"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>
-        <img src="https://img.shields.io/github/stars/undeaDD/BusinessWallet?style=for-the-badge&color=e94560"/>
-      </p>
-      <p align="center">iOS PassKit Business Card Generator — contacts as sleek Wallet passes.</p>
+    <td width="50%" valign="top">
+      <h3>FakeWebKit</h3>
+      <p><a href="https://github.com/undeaDD/FakeWebKit"><img src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=GitHub&primaryIcon=github&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=owner&secondaryBGColor=%2391c256&secondaryTextColor=%23000000" alt="GitHub | owner"/></a></p>
+      <p><sub>WKWebView drop-in package to enable WebKit support for the tvOS Platform.</sub></p>
     </td>
-    <td width="50%">
-      <h3 align="center">🏃 FakeWorkout</h3>
-      <p align="center">
-        <a href="https://github.com/undeaDD/FakeWorkout"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>
-        <img src="https://img.shields.io/github/stars/undeaDD/FakeWorkout?style=for-the-badge&color=e94560"/>
-      </p>
-      <p align="center">HealthKit workout simulation — useful for testing health integrations.</p>
+    <td width="50%" valign="top">
+      <h3>IOSSecuritySuite</h3>
+      <p><a href="https://github.com/nmilcoff/IOSSecuritySuite"><img src="https://forthebadge.com/api/badges/generate?panels=3&primaryLabel=GitHub&primaryIcon=github&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=contributor&secondaryBGColor=%2391c256&secondaryTextColor=%23000000&tertiaryLabel=%E2%98%85%2015&tertiaryBGColor=%2391c256&tertiaryTextColor=%23000000" alt="GitHub | contributor | ★ 15"/></a></p>
+      <p><sub>Advanced iOS jailbreak detection and runtime protection framework.</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Kimai-Clock</h3>
+      <p><a href="https://github.com/foraum-gmbh/kimai-clock"><img src="https://forthebadge.com/api/badges/generate?panels=3&primaryLabel=GitHub&primaryIcon=github&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=contributor&secondaryBGColor=%2391c256&secondaryTextColor=%23000000&tertiaryLabel=%E2%98%85%2028&tertiaryBGColor=%2391c256&tertiaryTextColor=%23000000" alt="GitHub | contributor | ★ 28"/></a></p>
+      <p><sub>macOS menu bar clock integration for the Kimai time-tracking platform.</sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Luna</h3>
+      <p><a href="https://github.com/cranci1/Luna"><img src="https://forthebadge.com/api/badges/generate?panels=3&primaryLabel=GitHub&primaryIcon=github&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=contributor&secondaryBGColor=%2391c256&secondaryTextColor=%23000000&tertiaryLabel=%E2%98%85%20168&tertiaryBGColor=%2391c256&tertiaryTextColor=%23000000" alt="GitHub | contributor | ★ 168"/></a></p>
+      <p><sub>Modular Apple iOS & tvOS streaming app ( movies, series, kdrama, mangas, ... ).</sub></p>
     </td>
   </tr>
 </table>
 
----
+<br/><br/>
 
-<div align="center">
+# Tech Stack
 
-## 🛠️ Tech Stack
+****Mobile****
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0066CC?style=for-the-badge&logo=swift&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Swift](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=swift&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Swift&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![iOS](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=apple&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=iOS&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![UIKit](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=apple&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=UIKit&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![SwiftUI](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=swift&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=SwiftUI&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![Expo](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=expo&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Expo&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![React Native](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=react&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=React+Native&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)
 
----
+****Web & Scripting****
 
-## 🏆 Achievements
+[![TypeScript](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=typescript&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=TypeScript&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![JavaScript](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=javascript&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=JavaScript&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![Node.js](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=nodedotjs&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Node.js&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![Puppeteer](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=puppeteer&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Puppeteer&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
 
-| 🧊 Arctic Code Vault | 🦈 Pull Shark × 2 | ⚡ Quickdraw | 🎯 YOLO | 🤝 Pair Extraordinaire |
-|:---:|:---:|:---:|:---:|:---:|
-| Preserved for the future | PRs merged | Lightning fast | Merged without review | Collaborated in style |
+****Tooling****
 
----
+[![Xcode](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=apple&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Xcode&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![VSCode](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=stackedit&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=VSCode&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![Bun](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=bun&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Bun&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)
+[![Biome](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=biome&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Biome&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![MySQL](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=mysql&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=MySQL&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
+[![Git](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=git&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Git&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](#)&nbsp;
 
-## 📊 GitHub Stats
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=undeaDD&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=a8b2d8" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=undeaDD&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&langs_count=6" height="165"/>
+# Contact
 
-<br/>
+[![devsforge.de](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=safari&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=devsforge.de&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](https://devsforge.de)&nbsp;
+[![Telegram](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=telegram&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Telegram&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](https://t.me/PLACEHOLDER)&nbsp;
+[![Discord](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=discord&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Discord&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](https://discord.com/invite/bf7NfD4)&nbsp;
+[![Email](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=gmail&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=undead_d%40live.de&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](https://devsforge.de)&nbsp;
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=undeaDD&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" width="55%"/>
-
----
-
-## 🌐 Connect
-
-[![DevsForge](https://img.shields.io/badge/devsforge.de-e94560?style=for-the-badge&logo=safari&logoColor=white)](https://devsforge.de)
-[![GitHub](https://img.shields.io/badge/github.com/undeaDD-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/undeaDD)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer" width="100%"/>
-
-*"Code is like humor. When you have to explain it, it's bad."*
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:141414,100:0d0d0d&height=120&section=footer" width="100%"/>
