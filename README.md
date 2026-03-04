@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a3d668&height=200&section=header&text=undeaDD&fontSize=60&fontColor=000000&fontAlignY=38&desc=iOS%20Engineer%20%7C%20Swift%20Craftsman&descAlignY=58&descSize=18&descColor=000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e3ff86&height=200&section=header&text=undeaDD&fontSize=60&fontColor=000000&fontAlignY=38&desc=iOS%20Engineer%20%7C%20Craftsman&descAlignY=58&descSize=18&descColor=000000" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=91C256&center=true&vCenter=true&width=650&lines=Building+iOS+apps+with+Swift;iMessage-style+UI+%7C+PassKit+%7C+HealthKit;DevsForge+%E2%80%94+Manga+Manager;Expo+%26+React+Native+when+needed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=91C256&center=true&vCenter=true&width=650&lines=Building+iOS+apps+with+Swift;KorekushonX+%7C+FakeWebKit+%7C+WebScraping;Full%20Stack%20Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -94,4 +94,4 @@
 [![Discord](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=discord&primaryBGColor=%236d9c38&primaryTextColor=%23000000&secondaryLabel=Discord&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](https://discord.com/invite/bf7NfD4)&nbsp;
 [![Email](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=gmail&primaryBGColor=%236d9c38&primaryTextColor=%23000000&secondaryLabel=undead_d%40live.de&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](https://devsforge.de)&nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a3d668&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=e3ff86&height=120&section=footer" width="100%"/>
