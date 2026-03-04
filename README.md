@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:141414,100:1c1c1c&height=200&section=header&text=undeaDD&fontSize=60&fontColor=91c256&fontAlignY=38&desc=iOS%20Engineer%20%7C%20Swift%20Craftsman&descAlignY=58&descSize=18&descColor=91c256" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=91c256&height=200&section=header&text=undeaDD&fontSize=60&fontColor=000000&fontAlignY=38&desc=iOS%20Engineer%20%7C%20Swift%20Craftsman&descAlignY=58&descSize=18&descColor=000000" width="100%"/>
 
 <div align="center">
 
@@ -94,4 +94,4 @@
 [![Discord](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=discord&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=Discord&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](https://discord.com/invite/bf7NfD4)&nbsp;
 [![Email](https://forthebadge.com/api/badges/generate?primaryLabel=%7E&secondaryIcon=gmail&primaryBGColor=%23000000&primaryTextColor=%2391c256&secondaryLabel=undead_d%40live.de&secondaryBGColor=%2391c256&secondaryTextColor=%23000000)](https://devsforge.de)&nbsp;
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:141414,100:0d0d0d&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=91c256&height=120&section=footer" width="100%"/>
